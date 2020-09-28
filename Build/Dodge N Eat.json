@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Personal Project",
+"dataUrl": "Dodge N Eat.data.unityweb",
+"wasmCodeUrl": "Dodge N Eat.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dodge N Eat.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
